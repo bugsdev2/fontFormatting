@@ -1,0 +1,10 @@
+#fs-container,
+#fc-container,
+#fstyle-container,
+#ta-container {
+	height: 7rem;
+}
+
+#ta-container input {
+	appearance: none;
+}
