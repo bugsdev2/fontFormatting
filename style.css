@@ -8,3 +8,7 @@
 #ta-container input {
 	appearance: none;
 }
+
+textarea {
+	height: 300%;
+}
