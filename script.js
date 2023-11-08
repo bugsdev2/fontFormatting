@@ -52,6 +52,7 @@ function changeFontStyle(value){
 			textArea.style.removeProperty('font-weight');
 			textArea.style.removeProperty('font-style');
 			textArea.style.removeProperty('text-decoration');
+			break;
 		case 'Bold':
 			textArea.style.setProperty('font-weight', 'bold');
 			
